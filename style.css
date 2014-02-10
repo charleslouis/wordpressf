@@ -13,9 +13,8 @@ License URI: http://creativecommons.org/licenses/by-sa/3.0/
 This simple theme was built using the example Bootstrap theme "Basic marketing site" found on the Bootstrap web site http://twitter.github.com/bootstrap/examples/hero.html
 */
 
-@import url('bootstrap/css/bootstrap.css'); 
-@import url('bootstrap/css/bootstrap-responsive.css'); 
-body { 
-     padding-top: 60px; 
-     padding-bottom: 40px; 
-}
+/*
+No style is being loaded there.
+The file is used only as a wp theme element, so that wordpress kwows which theme it is.
+For main.css see asets/css/main.css
+*/
