@@ -1,4 +1,0 @@
-wordpressf
-==========
-
-Framework Wordpress

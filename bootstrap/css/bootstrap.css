@@ -4629,9 +4629,15 @@ input[type="submit"].btn.btn-mini {
   background-color: transparent;
 }
 
-.navbar .nav > .active > a,
-.navbar .nav > .active > a:hover,
-.navbar .nav > .active > a:focus {
+.navbar-inverse .nav .active > a,
+.navbar-inverse .nav .active > a:hover,
+.navbar-inverse .nav .active > a:focus,
+.navbar-inverse .nav .current_page_item a,
+.navbar-inverse .nav .current_page_item a:hover,
+.navbar-inverse .nav .current_page_item a:focus,
+.navbar-inverse .nav .current_page_parent a,
+.navbar-inverse .nav .current_page_parent a:hover,
+.navbar-inverse .nav .current_page_parent a:focus {
   color: #555555;
   text-decoration: none;
   background-color: #e5e5e5;
